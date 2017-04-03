@@ -83,7 +83,7 @@
 
       <div class="panel panel-default" style="border-top-left-radius:0px; border-top-right-radius:0px; border-color:#616163 ">
         <div class="panel-heading" style="background-color:#616163; color: #fff; border-top-left-radius:0px; border-top-right-radius:0px;">
-          Views User Action
+          Views by User Action
         </div>
         <div class="panel-body">
           <div id="piechart3" style="height: 250px;"></div>
